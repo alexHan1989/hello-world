@@ -1,0 +1,5 @@
+print('Hello world')
+s = 'a'
+print(s)
+s.replace('b')
+print(s)
