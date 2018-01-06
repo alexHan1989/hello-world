@@ -1,5 +1,5 @@
 print('Hello world')
 s = 'a'
 print(s)
-s.replace('a', 'b')
+s.replace('b')
 print(s)
